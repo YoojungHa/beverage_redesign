@@ -58,7 +58,7 @@
 .menu .centerbox a img {width: 370px;height: 370px;text-align: center;}
 .menu .centerbox p {font-family: 'NanumSquareRound';width: 194px;height: 20px;float: left;line-height: 20px;text-align: center;margin-top: 15px;margin-left: 25%;}
 
-#section_box .news {width: 100%;padding: 145px 0;background: url(/images/news.jpg) center bottom;background-size:cover;background-attachment: fixed}
+#section_box .news {width: 100%;padding: 145px 0;background: url(../images/news.jpg) center bottom;background-size:cover;background-attachment: fixed}
 #section_box .news .centerbox {height: 465px;}
 .news .centerbox h2 {width: 175px;;font-size: 40px;color: #fff;float: left;}
 .news .centerbox .shape {width: 775px;height: 465px;background: #fff;float: right;}
